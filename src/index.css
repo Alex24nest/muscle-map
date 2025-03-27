@@ -1,0 +1,36 @@
+:root {
+  max-width: 720px;
+  margin: 0 auto;
+  background-color: rgb(9, 21, 47);
+  font-family: Roboto;
+  font-weight: 600;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  margin-top: 20px;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+img {
+  width: 80px;
+}
+
+button {
+  cursor: pointer;
+}
+
+p {
+  font-size: 16px;
+  margin: 0;
+  font-weight: 600;
+  color: rgb(159, 171, 206);
+}
+
